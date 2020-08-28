@@ -6,7 +6,7 @@ int main(void)
 	float value;   // 相等重量的白金价值
 
 	printf("Are you worth your weight in platinum?\n");
-	printf("Let's check it  out.\n");
+	printf("Let's check it out.\n");
 	printf("Please enter your weight in pounds: ");
 
 	// 获取用户输入
