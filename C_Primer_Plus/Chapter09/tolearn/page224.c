@@ -24,7 +24,7 @@ void to_decimal(unsigned long n)
 
 	r = n % 10;
 	if (n >= 10)
-		to_decimal(n / 10);
+		to_decimal(n / 10);  // 递归调用
 	switch (r)
 	{
 		case 0:
@@ -60,3 +60,20 @@ void to_decimal(unsigned long n)
 
 	return;
 }
+
+
+/*
+>>> Execution Result:
+Enter an integer (q to quit):
+0
+Binary equivalent: 0
+Enter an integer (q to quit):
+9
+Binary equivalent: 9
+Enter an integer (q to quit):
+255
+Binary equivalent: 255
+Enter an integer (q to quit):
+q
+Done.
+ */

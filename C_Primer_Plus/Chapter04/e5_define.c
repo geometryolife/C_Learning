@@ -15,3 +15,16 @@ int main(void)
 
 	return 0;
 }
+
+
+/*
+>>> Execution Result:
+Some number limits for this system:
+Biggest int: 2147483647
+Smallest long long: -9223372036854775808
+One byte = 8 bits on this system.
+Largest double: 1.797693e+308
+Smallest normal float: 1.175494e-38
+float precision = 6 digits
+float epsilon = 1.192093e-07
+ */

@@ -5,7 +5,8 @@ unsigned long Fibonacci(int);
 int main(void)
 {
 	// Fibonacci(40);
-	printf("%lu\n", Fibonacci(40));
+	printf("%lu\n", Fibonacci(60));
+	// printf("%zd\n", sizeof (unsigned long));
 
 	return 0;
 }
@@ -18,3 +19,9 @@ unsigned long Fibonacci(int n)
 	else
 		return 1;
 }
+
+
+/*
+>>> Execution Result:
+102334155
+ */

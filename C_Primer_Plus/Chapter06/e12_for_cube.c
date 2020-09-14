@@ -12,3 +12,16 @@ int main(void)
 
 	return 0;
 }
+
+
+/*
+>>> Execution Result:
+    n  n cubed
+    1     1
+    2     8
+    3    27
+    4    64
+    5   125
+    6   216
+final_n = 7
+ */

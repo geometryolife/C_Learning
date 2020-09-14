@@ -16,3 +16,14 @@ int main(void)
 
 	return 0;
 }
+
+
+/*
+>>> Execution Result:
+A
+AB
+ABC
+ABCD
+ABCDE
+ABCDEF
+ */

@@ -41,3 +41,21 @@ int main(void)
 
 	return 0;
 }
+
+
+/*
+>>> Execution Result:
+YEAR       RAINFALL (inches)
+2010             32.4
+2011             37.9
+2012             49.8
+2013             44.0
+2014             32.9
+
+The yearly average rainfall is 39.4 inches.
+
+MONTHLY AVERAGE:
+
+Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
+7.3  7.3  4.9  3.0  2.3  0.6  1.2  0.3  0.5  1.7  3.6  6.7
+ */

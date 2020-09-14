@@ -18,3 +18,14 @@ int main(void)
 
 	return 0;
 }
+
+
+/*
+>>> Execution Result:
+ABCDEF
+BCDEF
+CDEF
+DEF
+EF
+F
+ */
