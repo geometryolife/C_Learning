@@ -1,4 +1,4 @@
-/* str_cat_cat.c -- 平接两个字符串 */
+/* str_cat_cat.c -- 拼接两个字符串 */
 #include <stdio.h>
 #include <string.h>  /* strcat()函数的原型在该头文件中 */
 #define SIZE 80
