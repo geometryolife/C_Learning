@@ -15,6 +15,7 @@ int main(void)
 
 
 /*
+while 循环中的逻辑运算符不能使用||，否则输入空行无法结束
 >>> Execution Result:
 Enter strings (empty line to quit):
 By the way, the gets() function
