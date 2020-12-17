@@ -12,3 +12,13 @@ int main(void)
 
 	return 0;
 }
+
+
+/*
+>>> Execution Result:
+ i    no_data[i]
+ 0             0
+ 1             0
+ 2     944365696
+ 3         21953
+ */

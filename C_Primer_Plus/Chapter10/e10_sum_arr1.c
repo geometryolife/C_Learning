@@ -30,3 +30,11 @@ int sum(int ar[], int n)  // 这个数组的大小是?
 
 	return total;
 }
+
+
+/*
+>>> Execution Result:
+The size of ar is 8 bytes.
+The total number of marbles is 190.
+The size of marbles is 40 bytes.
+ */

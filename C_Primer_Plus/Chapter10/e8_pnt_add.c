@@ -19,3 +19,13 @@ int main(void)
 
 	return 0;
 }
+
+
+/*
+>>> Execution Result:
+                  short          double
+pointers + 0: 0x7fff01353158 0x7fff01353160
+pointers + 1: 0x7fff0135315a 0x7fff01353168
+pointers + 2: 0x7fff0135315c 0x7fff01353170
+pointers + 3: 0x7fff0135315e 0x7fff01353178
+ */
