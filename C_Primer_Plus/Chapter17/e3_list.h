@@ -28,7 +28,7 @@ typedef Node *List;
 void InitializeList(List *plist);
 
 /* 操作:     确定链表是否为空，plist 指向一个已初始化的链表 */
-/* 后置条件: 如果链表为空，该函数返回真 true；否则返回 false */
+/* 后置条件: 如果链表为空，该函数返回 true；否则返回 false */
 bool ListIsEmpty(const List *plist);
 
 /* 操作:     确定链表是否已满，plist 指向一个已初始化的链表 */
